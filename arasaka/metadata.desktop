@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Arasaka Security Login
+Description=Corporate security terminal login screen
+Author=custom
+Version=1.0
+Type=sddm-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=arasaka
+Theme-API=2.0
+QtVersion=6
