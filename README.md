@@ -1,3 +1,4 @@
+![Views](https://hits.sh/github.com/aspectZA27/sddm-arasaka-theme.svg?label=views)
 # SDDM Arasaka Theme
 
 A corporate "security terminal" login screen for [SDDM](https://github.com/sddm/sddm) (Qt6), inspired by the Arasaka Corporation from *Cyberpunk 2077*. Pure black background, red accent, boxed `UID_` / `KEY_` fields.
