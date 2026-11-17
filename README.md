@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/YOURNAME/sddm-arasaka-theme/total)
+![Downloads](https://img.shields.io/github/downloads/aspectZA27/sddm-arasaka-theme/total)
 
 ![Views](https://hits.sh/github.com/aspectZA27/sddm-arasaka-theme.svg?label=views)
 # SDDM Arasaka Theme
